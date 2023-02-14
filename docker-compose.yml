@@ -2,7 +2,7 @@ version: "3.8"
 
 services:
     master_branch:
-      image: koushik27/my_web_class:master
+      image:koushik27/my_web_class:master
       container_name: master_branch
       pull_policy: always
       restart: always
